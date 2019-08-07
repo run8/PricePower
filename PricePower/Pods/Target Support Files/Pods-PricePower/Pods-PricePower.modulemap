@@ -1,0 +1,6 @@
+framework module Pods_PricePower {
+  umbrella header "Pods-PricePower-umbrella.h"
+
+  export *
+  module * { export * }
+}
